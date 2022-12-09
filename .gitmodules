@@ -1,5 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/jospueyo/universe
 	shallow = true
 	branch = HEAD
+[submodule "ediblecity"]
+	path = ediblecity
+	url = https://github.com/icra/ediblecity
+	shallow = true
+	registered = true
