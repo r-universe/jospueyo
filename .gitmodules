@@ -1,10 +1,15 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/jospueyo/universe
+	url = https://github.com/jospueyo/jospueyo.r-universe.dev
 	shallow = true
 	branch = HEAD
 [submodule "ediblecity"]
 	path = ediblecity
 	url = https://github.com/icra/ediblecity
+	shallow = true
+	registered = true
+[submodule "credit"]
+	path = credit
+	url = https://github.com/jospueyo/credit
 	shallow = true
 	registered = true
