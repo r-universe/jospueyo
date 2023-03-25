@@ -8,8 +8,8 @@
 	url = https://github.com/icra/ediblecity
 	shallow = true
 	registered = true
-[submodule "credit"]
-	path = credit
-	url = https://github.com/jospueyo/credit
+[submodule "CRediTas"]
+	path = CRediTas
+	url = https://github.com/jospueyo/CRediTas
 	shallow = true
 	registered = true
