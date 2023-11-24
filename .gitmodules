@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/jospueyo/jospueyo.r-universe.dev
 	branch = HEAD
-[submodule "ediblecity"]
-	path = ediblecity
-	url = https://github.com/icra/ediblecity
 [submodule "CRediTas"]
 	path = CRediTas
 	url = https://github.com/ropensci/CRediTas
+[submodule "ediblecity"]
+	path = ediblecity
+	url = https://github.com/icra/ediblecity
